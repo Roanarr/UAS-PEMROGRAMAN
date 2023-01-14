@@ -125,7 +125,8 @@ def ubah():
     menu_dosen()
 ```
 ### OUTPUT
-![input_data](https://user-images.githubusercontent.com/118960008/212457879-0457fc6b-2b84-42b7-9289-0ff5b7f72220.png)
+![memasukan data](https://user-images.githubusercontent.com/118960008/212457931-27b89335-ed19-4109-bde1-9d4436e41096.png)
+
 
 ## ✓ main.py
 ### berisi program utama (menu pilihan yang memanggil semua menu yang ada)
