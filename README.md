@@ -1,5 +1,6 @@
 # UAS-PEMROGRAMAN
-## ✓ daftar_nilai.py berisi modul untuk:tambah_data, ubah_data, hapus_data,dan cari_data
+## ✓ daftar_nilai.py 
+### berisi modul untuk:tambah_data, ubah_data, hapus_data,dan cari_data
 ```
 def menu_dosen():
     system('cls')
@@ -28,7 +29,8 @@ def menu_dosen():
         system('cls')
         menu_dosen()
 ```
-## ✓ view_nilai.py berisi modul untuk:cetak_daftar_nilai, cetak_hasil_pencarian
+## ✓ view_nilai.py 
+### berisi modul untuk:cetak_daftar_nilai, cetak_hasil_pencarian
 ```
 def lihat():
     system('cls')
@@ -50,7 +52,8 @@ def lihat():
 ```
 
 
-## ✓ input_nilai.py berisi modul untuk:input_data yang meminta pengguna memasukkan data
+## ✓ input_nilai.py 
+### berisi modul untuk:input_data yang meminta pengguna memasukkan data
 ```
 def ubah():
     rubah = input('Ubah Biodata/Nilai [B/N] : ')
@@ -112,7 +115,8 @@ def ubah():
 
 
 
-## ✓ main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada)
+## ✓ main.py
+### berisi program utama (menu pilihan yang memanggil semua menu yang ada)
 ```
 from os import system
 
