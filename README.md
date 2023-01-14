@@ -29,6 +29,9 @@ def menu_dosen():
         system('cls')
         menu_dosen()
 ```
+### OUTPUT TAMBAH DATA
+![tambah_data](https://user-images.githubusercontent.com/118960008/212456771-4278c304-dd7a-4555-889c-3db564b62995.png)
+
 ## ✓ view_nilai.py 
 ### berisi modul untuk:cetak_daftar_nilai, cetak_hasil_pencarian
 ```
