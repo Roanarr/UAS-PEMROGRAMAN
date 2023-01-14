@@ -1,5 +1,6 @@
 # UAS-PEMROGRAMAN
 ## ✓ daftar_nilai.py berisi modul untuk:tambah_data, ubah_data, hapus_data,dan cari_data
+```
 def menu_dosen():
     system('cls')
     print('=====================================')
@@ -26,7 +27,7 @@ def menu_dosen():
         tidak = input('Menu Tidak Ada ')
         system('cls')
         menu_dosen()
-
+```
 ## ✓ view_nilai.py berisi modul untuk:cetak_daftar_nilai, cetak_hasil_pencarian
 
 
