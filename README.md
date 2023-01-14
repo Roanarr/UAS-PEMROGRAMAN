@@ -1,9 +1,9 @@
 # UAS-PEMROGRAMAN
 ## ✓ daftar_nilai.py berisi modul untuk:tambah_data, ubah_data, hapus_data,dan cari_data
-## def menu_dosen():
-## system('cls')
-## print('=====================================')
-## print('Input Data Nilai Mahasiswa'.center(40))
+def menu_dosen():
+    system('cls')
+    print('=====================================')
+    print('Input Data Nilai Mahasiswa'.center(40))
     print('=====================================')
     print('| 1. Tambah Data                    |')
     print('| 2. Lihat Data Mahasiswa           |')
@@ -26,7 +26,6 @@
         tidak = input('Menu Tidak Ada ')
         system('cls')
         menu_dosen()
-
 
 ## ✓ view_nilai.py berisi modul untuk:cetak_daftar_nilai, cetak_hasil_pencarian
 
