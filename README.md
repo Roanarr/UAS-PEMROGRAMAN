@@ -59,12 +59,15 @@ def ubah():
         if (i > len(d_nim[i])):
             print('ID Salah')
         else:
-            jurusanb = input('Prodi [TI/SI] : ')
+            jurusanb = input('Prodi [TI/TM/TL] : ')
             if jurusanb == 'TI' or jurusanb == 'ti':
                 jbaru = 'Teknik Informatika'
                 d_jurusan[i] = jbaru
-            elif jurusanb == 'SI' or jurusanb == 'si':
-                jbaru = 'Sistem Informasi'
+            elif jurusanb == 'Teknik Mesin' or jurusanb == 'tm':
+                jbaru = 'Teknik Mesin'
+                d_jurusan[i] = jbaru
+            elif jurusanb == 'Teknik Listrik' or jurusanb == 'tl':
+                jbaru = 'Teknik Listrik'
                 d_jurusan[i] = jbaru
             else:
                 kembali = input('Pilihan tidak ada')
