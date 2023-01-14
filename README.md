@@ -34,6 +34,7 @@ def menu_dosen():
 ### UBAH DATA
 ![ubah_data](https://user-images.githubusercontent.com/118960008/212457525-846266e6-5b2b-4fda-87e6-74b34c8bebc1.png)
 ### HAPUS DATA
+![hapus_data](https://user-images.githubusercontent.com/118960008/212457616-998bcbce-9a0f-4fa7-bfe6-1b2ddc62ec1d.png)
 
 ### CARI DATA
 
