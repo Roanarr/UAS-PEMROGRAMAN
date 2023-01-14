@@ -40,6 +40,8 @@ def menu_dosen():
 
 ## ✓ view_nilai.py 
 ### berisi modul untuk:cetak_daftar_nilai, cetak_hasil_pencarian
+### OUTPUT
+![cetak_daftar_nilai](https://user-images.githubusercontent.com/118960008/212457727-814a36da-2c4c-49ce-98c3-dbcd5e94b015.png)
 ```
 def lihat():
     system('cls')
@@ -63,8 +65,6 @@ def lihat():
 
 ## ✓ input_nilai.py 
 ### berisi modul untuk:input_data yang meminta pengguna memasukkan data
-### OUTPUT
-![cetak_daftar_nilai](https://user-images.githubusercontent.com/118960008/212457727-814a36da-2c4c-49ce-98c3-dbcd5e94b015.png)
 
 ```
 def ubah():
