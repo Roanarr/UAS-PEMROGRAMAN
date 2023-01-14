@@ -30,7 +30,8 @@ def menu_dosen():
         menu_dosen()
 ```
 ### OUTPUT TAMBAH DATA
-![tambah_data](https://user-images.githubusercontent.com/118960008/212456771-4278c304-dd7a-4555-889c-3db564b62995.png)
+![tambah_data](https://user-images.githubusercontent.com/118960008/212456771-4278c304-dd7a-4555-889c-3db564b62995.png)![ubah_data](https://user-images.githubusercontent.com/118960008/212457525-846266e6-5b2b-4fda-87e6-74b34c8bebc1.png)
+
 
 ## ✓ view_nilai.py 
 ### berisi modul untuk:cetak_daftar_nilai, cetak_hasil_pencarian
