@@ -63,6 +63,9 @@ def lihat():
 
 ## ✓ input_nilai.py 
 ### berisi modul untuk:input_data yang meminta pengguna memasukkan data
+### OUTPUT
+![cetak_daftar_nilai](https://user-images.githubusercontent.com/118960008/212457727-814a36da-2c4c-49ce-98c3-dbcd5e94b015.png)
+
 ```
 def ubah():
     rubah = input('Ubah Biodata/Nilai [B/N] : ')
@@ -122,11 +125,11 @@ def ubah():
     menu_dosen()
 ```
 ### OUTPUT
-![cetak_daftar_nilai](https://user-images.githubusercontent.com/118960008/212457727-814a36da-2c4c-49ce-98c3-dbcd5e94b015.png)
-
+![input_data](https://user-images.githubusercontent.com/118960008/212457879-0457fc6b-2b84-42b7-9289-0ff5b7f72220.png)
 
 ## ✓ main.py
 ### berisi program utama (menu pilihan yang memanggil semua menu yang ada)
+
 ```
 from os import system
 
