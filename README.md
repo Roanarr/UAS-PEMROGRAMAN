@@ -35,8 +35,8 @@ def menu_dosen():
 ![ubah_data](https://user-images.githubusercontent.com/118960008/212457525-846266e6-5b2b-4fda-87e6-74b34c8bebc1.png)
 ### HAPUS DATA
 ![hapus_data](https://user-images.githubusercontent.com/118960008/212457616-998bcbce-9a0f-4fa7-bfe6-1b2ddc62ec1d.png)
-
 ### CARI DATA
+![cari_data](https://user-images.githubusercontent.com/118960008/212457667-45f1530e-e927-4c6b-b9c4-a9f62713f74f.png)
 
 ## ✓ view_nilai.py 
 ### berisi modul untuk:cetak_daftar_nilai, cetak_hasil_pencarian
